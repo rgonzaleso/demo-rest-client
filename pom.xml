@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.rgonzaleso</groupId>
-    <artifactId>demo-algolia-client</artifactId>
+    <artifactId>demo-rest-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo-algolia-client</name>
-    <description>demo-algolia-client</description>
+    <name>demo-rest-client</name>
+    <description>demo-rest-client</description>
     <url/>
     <licenses>
         <license/>
